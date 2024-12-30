@@ -1,0 +1,27 @@
+Joe’s Automotive performs the following routine maintenance services:
+
+
+Oil change—$26.00
+
+
+Lube job—$18.00
+
+
+Radiator flush—$30.00
+
+
+Transmission flush—$80.00
+
+
+Inspection—$15.00
+
+
+Muffler replacement—$100.00
+
+
+Tire rotation—$20.00
+
+
+Joe also performs other nonroutine services and charges for parts and for labor (20 per hour). Create a GUI application that displays the total for a customer’s visit to Joe’s.
+
+Implement the methods from the RoutinePanel.java file. Figure 1 shows an example of the GUI before hitting the Calculate Charges button.
